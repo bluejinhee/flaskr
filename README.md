@@ -142,3 +142,5 @@ Key technical considerations:
 - SQLite is used as the database, which is suitable for small-scale applications.
 - Jinja2 is used for templating, allowing for dynamic content generation.
 - User sessions are managed using Flask's built-in session handling.
+
+- jinhee
